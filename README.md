@@ -4,7 +4,7 @@ This repository contains my **Codeforces problem solutions** written in **Java**
 
 I am a **beginner in Competitive Programming** and currently using Codeforces to improve my **problem-solving skills**, **logic**, and **Java coding**.
 
-📌 **Problems solved so far:** 9 ✅  
+📌 **Problems solved so far:** 63 ✅  
 📌 **Language:** Java  
 📌 **Level:** Beginner
 
