@@ -4,9 +4,14 @@ This repository contains my **Codeforces problem solutions** written in **Java**
 
 I am a **beginner in Competitive Programming** and currently using Codeforces to improve my **problem-solving skills**, **logic**, and **Java coding**.
 
-📌 **Problems solved so far:** 63 ✅  
-📌 **Language:** Java  
-📌 **Level:** Beginner
+## 🚀 Competitive Programming Milestones
+
+| # | Achievement | Platform | Date |
+|---|-------------|----------|------|
+| 1 | Solved 1 Problems | Codeforces | 26 Dec 2025 |
+| 2 | Solved 10 Problems | Codeforces | 12 Jan 2026 |
+| 3 | Solved 50 Problems | Codeforces | 15 Jan 2026 |
+| 4 | Solved 100 Problems | Codeforces | 7 Mar 2026 |
 
 ---
 
