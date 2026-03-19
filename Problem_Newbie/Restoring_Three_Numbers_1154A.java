@@ -18,5 +18,6 @@ class Restoring_Three_Numbers_1154A{
          }
          System.out.print((max - arr[i]) + " ");
      }
+        sc.close();
     }
 }
