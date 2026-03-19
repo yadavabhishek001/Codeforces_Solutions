@@ -20,6 +20,7 @@ public class Division_1669A {
             {
                 System.out.println("Division 1");
             }
+            
         }
         sc.close();
     }
