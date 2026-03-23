@@ -17,6 +17,5 @@ class Divisibility_Problem_1328A {
             }
         }
         sc.close();
-        
     }
 }

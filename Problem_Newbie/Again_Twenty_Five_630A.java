@@ -5,7 +5,6 @@ public class Again_Twenty_Five_630A {
         Scanner sc = new Scanner(System.in);
         sc.nextLong();
         System.out.print(25);
-
         sc.close();
     }
 }
