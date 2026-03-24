@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class A_Plus_B_Again_1999A {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
