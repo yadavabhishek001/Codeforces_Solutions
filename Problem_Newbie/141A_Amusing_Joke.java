@@ -17,7 +17,6 @@ public class Main {
         for (char c : host.toCharArray()) {
             count[c - 'A']++;
         }
-
         // Subtract letters from pile
         for (char c : pile.toCharArray()) {
             count[c - 'A']--;
