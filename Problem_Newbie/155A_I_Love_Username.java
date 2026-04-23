@@ -10,7 +10,6 @@ public class Main {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-
         int best = arr[0];
         int worst = arr[0];
         int count = 0;
