@@ -10,7 +10,6 @@ public class Main {
         for (int i = 0; i < n; i++) {
             a[i] = sc.nextInt();
         }
-
         int l = 0, r = n - 1;
         int sereja = 0, dima = 0;
         boolean turn = true; // true = Sereja, false = Dima
