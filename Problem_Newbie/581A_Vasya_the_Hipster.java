@@ -5,7 +5,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-
         int different = Math.min(a, b);
         int same = Math.abs(a - b) / 2;
 
