@@ -12,7 +12,6 @@ public class Main {
             for (int i = 0; i < n; i++) {
                 a[i] = sc.nextInt();
             }
-
             int evenIndexOddValue = 0;
             int oddIndexEvenValue = 0;
 
