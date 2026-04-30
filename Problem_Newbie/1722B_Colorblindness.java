@@ -15,6 +15,7 @@ public class Main {
             for (int i = 0; i < n; i++) {
                 char c1 = a.charAt(i);
                 char c2 = b.charAt(i);
+                
                 // Treat G as B
                 if (c1 == 'G') c1 = 'B';
                 if (c2 == 'G') c2 = 'B';
