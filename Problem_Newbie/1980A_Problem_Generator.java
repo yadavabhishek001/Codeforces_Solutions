@@ -12,14 +12,14 @@ public class Main {
 
             int[] freq = new int[7]; // A-G
 
-            // Count frequencies
+            // Counting frequencies
             for (char c : s.toCharArray()) {
                 freq[c - 'A']++;
             }
 
             int needed = 0;
 
-            // Check each difficulty A to G
+            // Checking each difficulty A to G
             for (int i = 0; i < 7; i++) {
                 if (freq[i] < m) {
                     needed += (m - freq[i]);
