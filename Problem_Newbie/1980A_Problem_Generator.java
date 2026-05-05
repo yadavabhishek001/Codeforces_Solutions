@@ -10,7 +10,7 @@ public class Main {
             int m = sc.nextInt();
             String s = sc.next();
 
-            int[] freq = new int[7]; // A-G. 
+            int[] freq = new int[7]; // A-G
 
             // Counting frequencies
             for (char c : s.toCharArray()) {
