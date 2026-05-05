@@ -6,6 +6,7 @@ public class Main {
         int t = sc.nextInt();
 
         while (t-- > 0) {
+            
             int n = sc.nextInt();
             int size = 2 * n;
 
