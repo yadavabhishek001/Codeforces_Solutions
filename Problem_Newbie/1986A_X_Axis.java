@@ -6,6 +6,7 @@ public class Main {
         int t = sc.nextInt();
 
         while (t-- > 0) {
+            
             int x1 = sc.nextInt();
             int x2 = sc.nextInt();
             int x3 = sc.nextInt();
