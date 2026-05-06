@@ -20,6 +20,7 @@ public class Main {
             for (int i = 0; i < m; i++) {
 
                 if (c.charAt(i) == 'V') {
+                    
                     // Vlad adds at beginning
                     ans.insert(0, b.charAt(i));
                 } else {
