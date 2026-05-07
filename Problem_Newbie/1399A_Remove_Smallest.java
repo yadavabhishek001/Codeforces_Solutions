@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main { // Wrong solution this is not the solution of 1399A
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
@@ -24,7 +24,13 @@ public class Main { // Wrong solution this is not the solution of 1399A
                 }
             }
 
-            System.out.println(possible ? "YES" : "NO");
+            if (possible) {
+                System.out.println("YES");
+            } else {
+                System.out.println("NO");
+            }
         }
+
+        sc.close();
     }
 }
