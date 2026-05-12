@@ -6,7 +6,8 @@ public class C_Target_Practice{
 
         int t = sc.nextInt();
 
-        while(t-- > 0){
+        while(t-- > 0
+             
             char ch[][] = new char[10][10];
             int sum = 0;
             for(int i = 0; i<10 ; i++){
