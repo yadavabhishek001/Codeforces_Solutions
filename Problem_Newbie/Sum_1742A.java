@@ -6,6 +6,7 @@ class Sum_1742A {
         int t = sc.nextInt();
  
         while (t-- > 0) {
+            
             int a = sc.nextInt();
             int b = sc.nextInt();
             int c = sc.nextInt();
