@@ -1,18 +1,15 @@
 import java.util.Scanner;
-class Solution {
+
+public class Drinks_200B {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int sum = 0;
-        
-        for(int i = 0; i<n ;i++) {
+        for(int i = 0 ; i<n ; i++){
             int a = sc.nextInt();
-            int b = sc.nextInt();
-            
-            if(a <= b-2){
-               sum++; 
-            }
+            sum += a;
         }
-        System.out.println(sum);
+        double x = (double) sum/n;
+        System.out.printf( "%.12f%n" , x);
     }
 }

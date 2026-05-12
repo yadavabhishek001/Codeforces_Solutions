@@ -1,0 +1,17 @@
+
+import java.util.Scanner;
+
+class A_A_B{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int t = sc.nextInt();
+
+        while(t-- > 0){
+            String s = sc.next();
+            int x = Integer.parseInt(s.charAt(0) + "") + Integer.parseInt(s.charAt(2)+"");
+            System.out.println(x);
+            sc.close();
+        }
+    }
+}
