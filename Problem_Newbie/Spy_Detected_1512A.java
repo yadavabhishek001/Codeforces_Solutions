@@ -11,6 +11,7 @@ public class Spy_Detected_1512A {
             for(int j = 0; j<n ; j++){
                 arr[j] = sc.nextInt();
             }
+            
             int same = -1;
             if(arr[0] == arr[1]){
                 same = arr[0];
