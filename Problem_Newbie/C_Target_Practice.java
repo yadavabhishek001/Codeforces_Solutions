@@ -12,6 +12,7 @@ public class C_Target_Practice{
             for(int i = 0; i<10 ; i++){
                 String row = sc.next();
                 for(int j = 0; j<10 ; j++){
+                    
                     char a = row.charAt(j);
                     ch[i][j] = a;
                     
