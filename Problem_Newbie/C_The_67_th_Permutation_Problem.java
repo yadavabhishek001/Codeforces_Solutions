@@ -13,6 +13,7 @@ class C_The_67_th_Permutation_Problem{
             for(int i = 0 ; i<n*3 ; i++){
                 arr[i] = i+1;
             }
+            
             int ans[] = new int[3*n];
 
             int left = 0;
