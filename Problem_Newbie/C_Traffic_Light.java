@@ -15,6 +15,7 @@ class C_Traffic_Light{
                 System.out.println(0);
                 continue;
             }
+            
             String str = s+s;
 
             int maxDist = 0;
