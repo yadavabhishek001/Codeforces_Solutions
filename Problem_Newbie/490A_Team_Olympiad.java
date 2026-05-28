@@ -21,7 +21,6 @@ public class Main {
                 s.add(i);
             }
         }
-
         int teams = Math.min(p.size(), Math.min(m.size(), s.size()));
 
         System.out.println(teams);
