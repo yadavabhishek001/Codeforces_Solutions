@@ -19,6 +19,7 @@ public class C_Target_Practice{
                         int layer = Math.min(
                         Math.min(i,j), Math.min(9-i , 9-j)
                     );
+                        
                     sum += layer + 1;
                     }
                 }
