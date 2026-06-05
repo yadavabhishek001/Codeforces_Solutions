@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Lucky_1676A {
+class 1676A_Lucky {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
