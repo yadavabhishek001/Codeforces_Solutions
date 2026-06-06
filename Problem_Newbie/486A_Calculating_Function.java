@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Calculating_Function_486A {
+class 486A_Calculating_Function {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
