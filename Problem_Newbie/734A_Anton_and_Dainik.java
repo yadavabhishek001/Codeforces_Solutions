@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Anton_and_Dainik_734A {
+public class 734A_Anton_and_Dainik {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
