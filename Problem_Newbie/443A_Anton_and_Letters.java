@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.HashSet;
 
-public class Anton_and_Letters_443A {
+public class 443A_Anton_and_Letters {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
