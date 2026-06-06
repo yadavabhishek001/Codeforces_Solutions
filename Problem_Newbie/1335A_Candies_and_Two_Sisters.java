@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Candies_and_Two_Sisters_1335A {
+class 1335A_Candies_and_Two_Sisters {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
