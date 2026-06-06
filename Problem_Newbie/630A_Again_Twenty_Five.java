@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Again_Twenty_Five_630A {
+public class 630A_Again_Twenty_Five {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         sc.nextLong();
