@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Petya_and_String_112A {
+public class Petya_and_String {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s1 = sc.next();
