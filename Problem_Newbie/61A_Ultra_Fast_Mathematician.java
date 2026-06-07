@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Ultra_Fast_Mathematician_61A {
+class 61A_Ultra_Fast_Mathematician {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
