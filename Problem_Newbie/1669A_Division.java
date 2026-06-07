@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Division_1669A {
+public 1669A_class Division {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
