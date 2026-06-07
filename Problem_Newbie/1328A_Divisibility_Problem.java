@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Divisibility_Problem_1328A {
+class 1328A_Divisibility_Problem {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
