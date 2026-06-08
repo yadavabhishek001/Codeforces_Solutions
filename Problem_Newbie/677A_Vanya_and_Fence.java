@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Vanya_and_Fence_677A {
+public class 677A_Vanya_and_Fence {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
