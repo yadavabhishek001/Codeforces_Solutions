@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class AvtoBus_1679A{
+class 1679A_AvtoBus{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
