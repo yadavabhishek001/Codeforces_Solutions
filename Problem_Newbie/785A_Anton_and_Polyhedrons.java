@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Anton_and_Polyhedrons_785A {
+class 785A_Anton_and_Polyhedrons {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
