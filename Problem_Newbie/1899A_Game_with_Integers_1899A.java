@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Game_with_Integers_1899A {
+public class 1899A_Game_with_Integers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
  
