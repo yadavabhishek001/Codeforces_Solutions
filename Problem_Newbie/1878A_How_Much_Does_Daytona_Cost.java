@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class How_Much_Does_Daytona_Cost_1878A {
+public class 1878A_How_Much_Does_Daytona_Cost {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
  
