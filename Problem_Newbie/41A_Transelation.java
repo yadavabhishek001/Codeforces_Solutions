@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Transelation_41A {
+public class 41A_Transelation{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
