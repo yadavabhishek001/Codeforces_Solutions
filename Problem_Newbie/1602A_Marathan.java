@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Marathan_1602A {
+class 1602A_Marathan {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
