@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Drinks_200B {
+public class 200B_Drinks {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
