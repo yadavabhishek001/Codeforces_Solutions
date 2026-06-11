@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Presents_136A {
+class 136A_Presents {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
  
