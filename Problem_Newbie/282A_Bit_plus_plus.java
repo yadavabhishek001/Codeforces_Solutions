@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bit_plus_plus_282A {
+public class 282A_Bit_plus_plus {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
