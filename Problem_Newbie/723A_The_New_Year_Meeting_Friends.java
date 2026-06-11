@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class The_New_Year_Meeting_Friends_723A {
+class 723A_The_New_Year_Meeting_Friends {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n1 = sc.nextInt();
