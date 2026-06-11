@@ -1,5 +1,5 @@
 import java.util.*;
-class Restoring_Three_Numbers_1154A{
+class 1154A_Restoring_Three_Numbers{
     public static void main (String args[]){
      Scanner sc = new Scanner(System.in);
      int arr[] = new int[4];
