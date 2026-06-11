@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class YES_and_YES_1703A {
+class 1703A_YES_and_YES {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
