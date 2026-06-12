@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Codeforces_Checking_1791A {
+class 1791ACodeforces_Checking {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
