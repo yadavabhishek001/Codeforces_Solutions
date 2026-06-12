@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Halloumi_Boxes_1903A {
+public class 1903A_Halloumi_Boxes {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
  
