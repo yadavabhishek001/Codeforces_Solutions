@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Beautiful_Matrix_263A {
+public class 263A_Beautiful_Matrix {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int arr[][] = new int[5][5];
