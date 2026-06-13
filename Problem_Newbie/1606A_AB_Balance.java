@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class AB_Balance_1606A{
+class 1606A_AB_Balance{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
