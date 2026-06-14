@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C_Prepend_and_Append{
+public class 1791C_Prepend_and_Append{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
