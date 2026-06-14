@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Police_Recruits_427A {
+class 427A_Police_Recruits {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
