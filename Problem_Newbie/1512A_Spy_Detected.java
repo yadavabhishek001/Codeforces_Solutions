@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Spy_Detected_1512A {
+public class 1512A_Spy_Detected {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
