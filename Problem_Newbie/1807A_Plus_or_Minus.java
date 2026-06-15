@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Plus_or_Minus_1807A{
+class 1807A_Plus_or_Minus{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
