@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Stones_on_the_table_266A {
+public class 266A_Stones_on_the_table {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
