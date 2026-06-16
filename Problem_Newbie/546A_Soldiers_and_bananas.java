@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Soldiers_and_bananas_546A {
+public class 546A_Soldiers_and_bananas {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int cost = sc.nextInt();
