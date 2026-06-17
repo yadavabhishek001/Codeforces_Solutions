@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class C_Traffic_Light{
+class 1744C_Traffic_Light{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
