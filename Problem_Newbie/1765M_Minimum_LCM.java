@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class M_Minimum_LCM {
+class 1765M_Minimum_LCM {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		long t = scanner.nextLong();
