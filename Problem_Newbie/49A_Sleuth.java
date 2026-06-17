@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sleuth_49A {
+public class 49A_Sleuth {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String sentence = sc.nextLine();
