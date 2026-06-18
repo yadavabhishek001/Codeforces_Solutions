@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A_Don_t_Try_to_Count {
+public class 1881A_Don_t_Try_to_Count {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
