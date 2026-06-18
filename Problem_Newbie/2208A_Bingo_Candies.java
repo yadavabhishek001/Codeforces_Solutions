@@ -1,6 +1,6 @@
 import java.util.*;
 
-class A_Bingo_Candies {
+class 2208A_Bingo_Candies {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
