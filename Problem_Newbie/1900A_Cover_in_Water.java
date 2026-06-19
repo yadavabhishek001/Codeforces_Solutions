@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A_Cover_in_Water{
+public class 1900A_Cover_in_Water{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 
