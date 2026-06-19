@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class A_Boring_Apartments{
+class 1433A_Boring_Apartments{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
