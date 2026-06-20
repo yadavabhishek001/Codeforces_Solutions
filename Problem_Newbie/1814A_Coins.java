@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class A_Coins {
+class 1814A_Coins {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
