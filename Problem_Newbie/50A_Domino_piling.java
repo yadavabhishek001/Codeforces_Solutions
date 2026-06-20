@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class A_Domino_piling{
+class 50A_Domino_piling{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
