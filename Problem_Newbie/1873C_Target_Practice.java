@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C_Target_Practice{
+public class 1873C_Target_Practice{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
