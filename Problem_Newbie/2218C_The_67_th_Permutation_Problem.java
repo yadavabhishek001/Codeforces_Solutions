@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class C_The_67_th_Permutation_Problem{
+class 2218C_The_67_th_Permutation_Problem{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
