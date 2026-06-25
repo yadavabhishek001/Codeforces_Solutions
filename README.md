@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 281 | 26 |
+| 282 | 26 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (87)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (122)
+- [implementation](#implementation) (123)
 - [math](#math) (129)
 - [number theory](#number-theory) (20)
 - [probabilities](#probabilities) (2)
@@ -456,6 +456,7 @@
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2000/A%20-%20Primary%20Task/solution.java) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2009/B%20-%20osu!mania/solution.java) |
 | 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.java) |
+| 2036A | [Quintomania](https://codeforces.com/contest/2036/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2036/A%20-%20Quintomania/solution.java) |
 | 2037A | [Twice](https://codeforces.com/contest/2037/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2037/A%20-%20Twice/solution.java) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.java) |
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.java) |
