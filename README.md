@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 282 | 26 |
+| 283 | 26 |
 
 ---
 
@@ -28,14 +28,14 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (87)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (123)
+- [implementation](#implementation) (124)
 - [math](#math) (129)
 - [number theory](#number-theory) (20)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (31)
-- [strings](#strings) (38)
+- [strings](#strings) (39)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (3)
 
@@ -408,6 +408,7 @@
 | 1520A | [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1520/A%20-%20Do%20Not%20Be%20Distracted!/solution.java) |
 | 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.java) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.java) |
+| 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.java) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1624/B%20-%20Make%20AP/solution.java) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.java) |
@@ -701,6 +702,7 @@
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.java) |
 | 1579A | [Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1579/A%20-%20Casimir's%20String%20Solitaire/solution.java) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1606/A%20-%20AB%20Balance/solution.java) |
+| 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.java) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1703C | [Cypher](https://codeforces.com/contest/1703/problem/C) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1703/C%20-%20Cypher/solution.java) |
