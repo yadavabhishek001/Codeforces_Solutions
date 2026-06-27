@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 283 | 26 |
+| 284 | 26 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (60)
+- [brute force](#brute-force) (61)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (29)
 - [data structures](#data-structures) (4)
@@ -35,7 +35,7 @@
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (31)
-- [strings](#strings) (39)
+- [strings](#strings) (40)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (3)
 
@@ -108,6 +108,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1904/A%20-%20Forked!/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
+| 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.java) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1968/A%20-%20Maximize%3F/solution.java) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.java) |
 | 1986A | [X Axis](https://codeforces.com/contest/1986/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1986/A%20-%20X%20Axis/solution.java) |
@@ -715,6 +716,7 @@
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.java) |
+| 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2000/A%20-%20Primary%20Task/solution.java) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.java) |
