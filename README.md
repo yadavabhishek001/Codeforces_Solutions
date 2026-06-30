@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 287 | 26 |
+| 288 | 26 |
 
 ---
 
@@ -28,14 +28,14 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (87)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (125)
+- [implementation](#implementation) (126)
 - [math](#math) (130)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (31)
-- [strings](#strings) (41)
+- [strings](#strings) (42)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (3)
 
@@ -449,6 +449,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1904/A%20-%20Forked!/solution.java) |
 | 1907A | [Rook](https://codeforces.com/contest/1907/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1907/A%20-%20Rook/solution.java) |
+| 1914A | [Problemsolving Log](https://codeforces.com/contest/1914/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1914/A%20-%20Problemsolving%20Log/solution.java) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.java) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.java) |
@@ -719,6 +720,7 @@
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1883/B%20-%20Chemistry/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.java) |
+| 1914A | [Problemsolving Log](https://codeforces.com/contest/1914/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1914/A%20-%20Problemsolving%20Log/solution.java) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.java) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.java) |
 | 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.java) |
