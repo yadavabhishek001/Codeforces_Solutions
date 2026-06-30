@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 286 | 26 |
+| 287 | 26 |
 
 ---
 
@@ -28,14 +28,14 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (87)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (124)
+- [implementation](#implementation) (125)
 - [math](#math) (130)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (31)
-- [strings](#strings) (40)
+- [strings](#strings) (41)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (3)
 
@@ -439,6 +439,7 @@
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.java) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1829/B%20-%20Blank%20Space/solution.java) |
+| 1833A | [Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1833/A%20-%20Musical%20Puzzle/solution.java) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
 | 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1850/B%20-%20Ten%20Words%20of%20Wisdom/solution.java) |
@@ -713,6 +714,7 @@
 | 1790A | [Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1790/A%20-%20Polycarp%20and%20the%20Day%20of%20Pi/solution.java) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.java) |
+| 1833A | [Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1833/A%20-%20Musical%20Puzzle/solution.java) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.java) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1883/B%20-%20Chemistry/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
