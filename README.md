@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 289 | 26 |
+| 290 | 26 |
 
 ---
 
@@ -26,10 +26,10 @@
 - [games](#games) (6)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (88)
+- [greedy](#greedy) (89)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (127)
-- [math](#math) (131)
+- [math](#math) (132)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (2)
@@ -285,6 +285,7 @@
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.java) |
 | 1692B | [All Distinct](https://codeforces.com/contest/1692/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1692/B%20-%20All%20Distinct/solution.java) |
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.java) |
+| 1716A | [2-3 Moves](https://codeforces.com/contest/1716/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1716/A%20-%202-3%20Moves/solution.java) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.java) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1742/B%20-%20Increasing/solution.java) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.java) |
@@ -534,6 +535,7 @@
 | 1675A | [Food for Animals](https://codeforces.com/contest/1675/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1675/A%20-%20Food%20for%20Animals/solution.java) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.java) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.java) |
+| 1716A | [2-3 Moves](https://codeforces.com/contest/1716/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1716/A%20-%202-3%20Moves/solution.java) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.java) |
 | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1729/A%20-%20Two%20Elevators/solution.java) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.java) |
