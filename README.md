@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 293 | 26 |
+| 294 | 26 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (6)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (89)
+- [greedy](#greedy) (90)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (128)
 - [math](#math) (134)
@@ -34,10 +34,10 @@
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (32)
+- [sortings](#sortings) (33)
 - [strings](#strings) (43)
 - [ternary search](#ternary-search) (1)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -295,6 +295,7 @@
 | 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.java) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.java) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1837/B%20-%20Comparison%20String/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.java) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.java) |
@@ -682,6 +683,7 @@
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1760/C%20-%20Advantage/solution.java) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.java) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.java) |
 | 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1850/B%20-%20Ten%20Words%20of%20Wisdom/solution.java) |
@@ -759,6 +761,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ---
 
