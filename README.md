@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 294 | 26 |
+| 295 | 26 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (61)
+- [brute force](#brute-force) (62)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (31)
 - [data structures](#data-structures) (4)
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (90)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (128)
-- [math](#math) (134)
+- [math](#math) (135)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (2)
@@ -118,6 +118,7 @@
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2009/B%20-%20osu!mania/solution.java) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.java) |
 | 2060A | [Fibonacciness](https://codeforces.com/contest/2060/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2060/A%20-%20Fibonacciness/solution.java) |
+| 2106A | [Dr. TC](https://codeforces.com/contest/2106/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2106/A%20-%20Dr.%20TC/solution.java) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2114/A%20-%20Square%20Year/solution.java) |
 | 2121A | [Letter Home](https://codeforces.com/contest/2121/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2121/A%20-%20Letter%20Home/solution.java) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.java) |
@@ -590,6 +591,7 @@
 | 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2051/B%20-%20Journey/solution.java) |
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.java) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.java) |
+| 2106A | [Dr. TC](https://codeforces.com/contest/2106/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2106/A%20-%20Dr.%20TC/solution.java) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2114/A%20-%20Square%20Year/solution.java) |
 | 2121A | [Letter Home](https://codeforces.com/contest/2121/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2121/A%20-%20Letter%20Home/solution.java) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.java) |
