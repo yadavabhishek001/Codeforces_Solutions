@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 295 | 26 |
+| 296 | 26 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (90)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (128)
+- [implementation](#implementation) (129)
 - [math](#math) (135)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (2)
@@ -350,6 +350,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/32/B%20-%20Borze/solution.java) |
+| 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.java) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/41/A%20-%20Translation/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |
