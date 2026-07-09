@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 296 | 26 |
+| 297 | 26 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (90)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (129)
+- [implementation](#implementation) (130)
 - [math](#math) (135)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (2)
@@ -472,6 +472,7 @@
 | 2036A | [Quintomania](https://codeforces.com/contest/2036/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2036/A%20-%20Quintomania/solution.java) |
 | 2037A | [Twice](https://codeforces.com/contest/2037/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2037/A%20-%20Twice/solution.java) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.java) |
+| 2050A | [Line Breaks](https://codeforces.com/contest/2050/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2050/A%20-%20Line%20Breaks/solution.java) |
 | 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.java) |
 | 2117A | [False Alarm](https://codeforces.com/contest/2117/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2117/A%20-%20False%20Alarm/solution.java) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.java) |
