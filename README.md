@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 298 | 26 |
+| 299 | 26 |
 
 ---
 
@@ -26,16 +26,16 @@
 - [games](#games) (6)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (90)
+- [greedy](#greedy) (91)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (131)
-- [math](#math) (136)
+- [math](#math) (137)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (2)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (33)
-- [strings](#strings) (43)
+- [strings](#strings) (44)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (4)
 
@@ -294,6 +294,7 @@
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
 | 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.java) |
+| 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.java) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.java) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1837/B%20-%20Comparison%20String/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
@@ -553,6 +554,7 @@
 | 1790A | [Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1790/A%20-%20Polycarp%20and%20the%20Day%20of%20Pi/solution.java) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.java) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.java) |
+| 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.java) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.java) |
@@ -733,6 +735,7 @@
 | 1790A | [Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1790/A%20-%20Polycarp%20and%20the%20Day%20of%20Pi/solution.java) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
 | 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
+| 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.java) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1829/A%20-%20Love%20Story/solution.java) |
 | 1833A | [Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1833/A%20-%20Musical%20Puzzle/solution.java) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [Java 21](https://github.com/yadavabhishek001/Codeforces_Solutions/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.java) |
